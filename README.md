@@ -85,5 +85,3 @@ PRs welcome! Want to add your own Uma Musume support tool? Submit a pull request
 ## ❤️ Thank You
 
 Special thanks to the UmaMusume community and players who seek depth behind the charm. This project is for all of you.
-
-```
