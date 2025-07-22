@@ -22,8 +22,7 @@ Whether you're aiming to win URA Finals or become a Legend Trainer, this repo he
 
 | Script | Description |
 |--------|-------------|
-| `mcqueen_training_calc.ipynb` | Calculates McQueen's stat distribution from a given **Stamina** input. |
-| `scarlet_training_calc.ipynb` | Calculates Daiwa Scarlet's stat distribution from a given **Speed** input. |
+| `CalculateTraining.ipynb` | Calculates Umamusume's stat distribution from a given input. |
 | Future Scripts (Coming Soon!) | Training planner, race strategy recommender, stat curve visualizer, and more! |
 
 ---
